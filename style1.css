@@ -1,0 +1,13 @@
+.course {
+    background-color: yellow;
+    font-weight: bold;
+}
+
+.female {
+    color: darkgreen;
+    font-style: italic;
+}
+
+p {
+    font-size: 16px;
+}
